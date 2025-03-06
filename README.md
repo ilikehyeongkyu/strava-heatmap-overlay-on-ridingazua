@@ -1,0 +1,1 @@
+# strava-heatmap-overlay-on-ridingazua
